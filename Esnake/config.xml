@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget xmlns:tizen="http://tizen.org/ns/widgets" xmlns="http://www.w3.org/ns/widgets" id="http://yourdomain/Esnake" version="1.0.1" viewmodes="maximized">
+    <tizen:application id="K540hNWH3h.Esnake" package="K540hNWH3h" required_version="2.3.1"/>
+    <author href="http://zitldev.com" email="imartinez@zitldev.com">Ivan Martinez</author>
+    <content src="index.html"/>
+    <feature name="http://tizen.org/feature/screen.size.all"/>
+    <feature name="http://tizen.org/feature/input.rotating_bezel"/>
+    <icon src="icon.png"/>
+    <name>Serpiente</name>
+    <tizen:profile name="wearable"/>
+</widget>
